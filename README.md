@@ -1,7 +1,7 @@
 # The Real Bus Tracker Exercise
 
 <p align="center">  
-  <img src="https://github.com/gespinosa28/BusTracker/blob/main/Screenshot%202023-01-05%20at%209.40.53%20PM.png" align="center" width="300" height="300">
+  <img src="https://github.com/gespinosa28/BusTracker/blob/main/Screenshot%202023-01-05%20at%209.40.53%20PM.png" align="center" width="600" height="400">
 </p> 
 
 ---
