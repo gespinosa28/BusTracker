@@ -14,24 +14,24 @@
 ---
 ## Description
 
-The Real Bus Tracker Exercise consist in creating an interactive map that allow us to track in real time the bus that move between MIT and Harvard campus. In this map, the different stops between the two campus can also be observed.
+The Real Bus Tracker Exercise consists of creating an interactive map that allow one to track, in real time, the bus that travels between the MIT and Harvard campuses. In this map, the different stops between the two campus can also be observed.
 
 [[to top ⬆️]](#the-real-bus-tracker-exercise)
 
 ---
 ## Usage
 
-* Click on `Bus stops between MIT and Harvard` button to add all markers on every bus stop between MIT and Harvard.
-* Click on `Real Time Bus Position` button to make appear a marker with the real time position of the bus.
+* Click on `Bus stops between MIT and Harvard` button to add markers of every bus stop between MIT and Harvard.
+* Click on `Real Time Bus Position` button to display a marker with the real time position of the bus.
 
 [[to top ⬆️]](#the-real-bus-tracker-exercise)
 
 ---
 ## Future work
 
-* Change the marker with the real position of the bus with an icon that better represent the bus in movement.
-* Higlight in the map the route followed by the bus, between MIT and Harvard.
-* When the cursor is on a bus stop marker, show the waiting time for the bus to arrive.
+* Change the marker with the real position of the bus with an icon, such as an actual bus, that better depicts a bus in movement.
+* Higlight in the map the route followed by the bus as it travels between MIT and Harvard.
+* When the cursor is on a bus stop marker, show the current estimated time of arrival for the bus.
 * Improve the user experience by giving the user the option to change the style of the map.
 * Enhance the look and feel of the webpage by repositioning and changing the style of the buttons.
 
