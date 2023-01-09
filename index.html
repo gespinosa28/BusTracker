@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>The Real Time BUs Tracker</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.js"></script>
+        <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.0/mapbox-gl.css" rel="stylesheet" />
+        <link rel="stylesheet" type="text/css" href="./styles.css">
+    </head>
+    <body>
+        <div id="map"></div>
+        <div class="map-overlay top">
+            <button onclick="showBusStops()" style="font-size: 1em">
+                Bus stops between MIT and Harvard
+            </button>
+            <button onclick="trackBus()" style="font-size: 1em">
+                Real Time Bus Position
+            </button>
+        </div>  
+        <script src="./mapanimation.js"></script>
+    </body>
+</html>
